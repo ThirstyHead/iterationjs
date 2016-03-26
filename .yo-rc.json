@@ -1,0 +1,10 @@
+{
+  "generator-mjs": {
+    "githubName": "Scott Davis",
+    "githubEmail": "scott@thirstyhead.com",
+    "githubNameAndEmail": "Scott Davis <scott@thirstyhead.com>",
+    "appName": "iterationjs",
+    "appDescription": "IterationJS is an Angular 2 app that helps you manage Agile software development projects",
+    "appAuthor": "Scott Davis <scott@thirstyhead.com>"
+  }
+}
